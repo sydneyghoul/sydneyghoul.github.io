@@ -4,13 +4,67 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://sydneyghoul.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="https://sydneyghoul.github.io" />
-<updated>2015-09-01T01:40:43+10:00</updated>
+<updated>2015-09-13T02:28:03+10:00</updated>
 <id>https://sydneyghoul.github.io/</id>
 <author>
   <name>Даниил Пенькин</name>
   <uri>https://sydneyghoul.github.io/</uri>
   <email>dpenkin@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Atlassian &#35;1]]></title>
+ <link rel="alternate" type="text/html" href="https://sydneyghoul.github.io/atlassian-best-place-to-work/" />
+  <id>https://sydneyghoul.github.io/atlassian-best-place-to-work</id>
+  <published>2015-09-13T00:00:00+10:00</published>
+  <updated>2015-09-13T00:00:00+10:00</updated>
+  <author>
+    <name>Даниил Пенькин</name>
+    <uri>https://sydneyghoul.github.io</uri>
+    <email>dpenkin@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;На прошлой неделе &lt;a href=&quot;http://www.businessinsider.com.au/atlassian-is-australias-best-place-to-work-again-2015-9&quot;&gt;Atlassian был признан лучшим местом для работы в Австралии&lt;/a&gt;. Более того, компания занимает первую строчку в этом рейтинге второй год подряд.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/138443159&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Как оказалось, Atlassian уже &lt;a href=&quot;https://ru.atlassian.com/company/about/awards&quot;&gt;много подобных наград получил&lt;/a&gt;. Здóрово, что тут скажешь.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Утром того дня по всему офису обнаружились вот такие шарики и плакаты:&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;    
+    &lt;a href=&quot;https://farm6.staticflickr.com/5619/21356807375_d97a0d7ae2_k.jpg&quot;&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5619/21356807375_5f81fd0fd8_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;    
+    &lt;a href=&quot;https://farm1.staticflickr.com/620/21330589136_ccb6130753_k.jpg&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/620/21330589136_e7063a1a4f_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;На моё сомнение по поводу того, что чёрный цвет ассоциируется скорее с чем-то мрачным, коллеги ответили, мол, может, у европейцев это и так, а здесь чёрный цвет в почёте. Наверное, от обилия солнца? Как бы то ни было, &lt;em&gt;вся&lt;/em&gt; атрибутика этого конкурса в чёрных тонах.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;    
+    &lt;a href=&quot;https://farm1.staticflickr.com/638/21330562716_c190f9cb7d_k.jpg&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/638/21330562716_fa88c91e35_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;    
+    &lt;a href=&quot;https://farm1.staticflickr.com/656/21356830685_68111a2c4d_k.jpg&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/656/21356830685_4e968b64d1_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Отмечали победу вафлями с мёдом и клубникой, тортами на палочке, — конфеты на фотографиях оказались на деле кусочками бисквита в глазури, — и разнообразным, правда, не всегда вкусным, мармеладом. Ну, и каждому вручили по чёрной толстовке с чёрной же надписью на спине.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;    
+    &lt;a href=&quot;https://farm6.staticflickr.com/5773/20964826449_406f31a60a_k.jpg&quot;&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5773/20964826449_10d3abe520_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;    
+    &lt;a href=&quot;https://farm6.staticflickr.com/5617/21159437991_fe1da5cb8c_k.jpg&quot;&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5617/21159437991_c96538ee7c_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Кстати, без новых футболок не обходится ни одно мероприятие, а кроме того, футболку можно заработать, например, за исправление “нестабильных” тестов (flakey tests): за четыре с небольшим месяца у меня образовалось уже пять футболок и две толстовки. Недаром шутят, что Atlassian занимается скорее выпуском футболок, чем разработкой софта :)&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Celebrating Best Place to Work in Australia with waffles &amp;amp; strawberries! &lt;a href=&quot;https://twitter.com/hashtag/BRWBestPlaces?src=hash&quot;&gt;#BRWBestPlaces&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/bestplacestowork?src=hash&quot;&gt;#bestplacestowork&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/atlassian?src=hash&quot;&gt;#atlassian&lt;/a&gt; &lt;a href=&quot;http://t.co/duDbjQG2y6&quot;&gt;pic.twitter.com/duDbjQG2y6&lt;/a&gt;&lt;/p&gt;&amp;mdash; Atlassian Careers (@atlassiantalent) &lt;a href=&quot;https://twitter.com/atlassiantalent/status/638844184032481280&quot;&gt;September 1, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;https://sydneyghoul.github.io/atlassian-best-place-to-work/&quot;&gt;Atlassian &amp;#35;1&lt;/a&gt; was originally published by Даниил Пенькин at &lt;a href=&quot;https://sydneyghoul.github.io&quot;&gt;Sydney Ghoul&lt;/a&gt; on 13 сентября 2015.&lt;/p&gt;
+  </content>
+</entry>
 
 
 <entry>
@@ -25,13 +79,13 @@
     <email>dpenkin@gmail.com</email>
   </author>
   <content type="html">
-    &lt;p&gt;На этот раз я разглагольствовать не буду, перейду сразу к делу. В Австралии много кто живёт, помимо представителей хомо сапиенс. Ага, змеи, пауки и сколопендры, — скажете Вы, и будете правы. Однако тут много и приятных глазу животных и птиц.&lt;/p&gt;
+    &lt;p&gt;На этот раз я разглагольствовать не буду, перейду сразу к делу. В Австралии много кто живёт, помимо представителей хомо сапиенс. Ага, змеи, пауки и сколопендры, — скажете вы, и будете правы. Однако тут много и приятных глазу животных и птиц.&lt;/p&gt;
 
 &lt;p&gt;С кенгуру нам пока совсем не везёт, так что о них как-нибудь потом, а сейчас немного о какаду. Это такие забавные светлые попугаи с хохолком на голове. Как выяснилось, Австралия — единственный ареал их обитания в природе.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;Однажды мы уже встречали и даже довольно близко общались с одним какаду — на Сентозе в Сингапуре.&lt;/p&gt;
+&lt;p&gt;Однажды мы уже встречали и даже довольно близко общались с одним какаду — в саду бабочек (как это ни странно) на Сентозе в Сингапуре.&lt;/p&gt;
 
 &lt;figure class=&quot;half&quot;&gt;    
     &lt;a href=&quot;https://farm1.staticflickr.com/769/21033986525_146bd65b28_b.jpg&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/769/21033986525_146bd65b28_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;    
@@ -42,7 +96,7 @@
     &lt;a href=&quot;https://farm1.staticflickr.com/673/21007776556_58f4a54b82_b.jpg&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/673/21007776556_58f4a54b82_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Тот какаду уделил нам немного своего &lt;del&gt;попугайего&lt;/del&gt; &lt;del&gt;попугайского&lt;/del&gt; внимания, вёл себя спокойно и учтиво и не был против быть поглаженным и почёсанным. А в знак уважения и признания даже лапу поднял.&lt;/p&gt;
+&lt;p&gt;Тот какаду уделил нам немного своего &lt;del&gt;попугайего&lt;/del&gt; &lt;del&gt;попугайского&lt;/del&gt; внимания, вёл себя спокойно и учтиво, и не был против быть поглаженным и почёсанным. А в знак уважения и признания даже лапу поднял.&lt;/p&gt;
 
 &lt;figure class=&quot;half&quot;&gt;
     &lt;a href=&quot;https://farm1.staticflickr.com/676/21024093482_3cfa739d82_b.jpg&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/676/21024093482_3cfa739d82_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
